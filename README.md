@@ -1,6 +1,7 @@
 # Acerca de mi
 
-- 📚 Ingeniero de Sistemas e Informática y Especialista en Desarrollo de Software
+- 📚 Ingeniero de Sistemas e Informática [Universidad Pontificia Bolivariana](https://www.upb.edu.co/es/pregrados/ingenieria-sistemas-medellin)
+- 📚 Especialista en Desarrollo de Software [EAFIT](https://www.eafit.edu.co/especializacion-desarrollo-software)
 - 🔭 Soy programador y [enseño programación](https://www.youtube.com/c/estoyprogramando)
 - ✅ Jefe de ingeniería en [Spiderdoor - Access management made easy](https://spiderdoor.com/)
 - 🩺 Cofounder - CTO en [Glya - Administramos la expriencia del paciente](https://www.glya.co/)
